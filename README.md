@@ -21,6 +21,7 @@ OSMovie is a fully responsive web application that allows users to search for mo
 - **Styling**: Tailwind CSS (in parts)
 - **Auth & Database**: Firebase Authentication, Firebase Realtime Database (optional usage)
 - **API**:TMDB Website
+- **Deploy**:Use Netlify
 
 ---
 
