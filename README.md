@@ -49,3 +49,11 @@ ONE-STOP-MOVIE-main
             ├── sidebar.js  
             └── watchlist.js
 
+Link for My Website:https://osmovies.netlify.app/
+
+Photos:![Screenshot 2025-04-30 232202](https://github.com/user-attachments/assets/f1e25297-507e-40f3-989c-aa6bce30d57d)
+         ![Screenshot 2025-04-30 232248](https://github.com/user-attachments/assets/78bd87f3-72a3-457d-9c89-d38aac9d41a8)
+         ![Screenshot 2025-04-30 232314](https://github.com/user-attachments/assets/2cdbd53c-d6d5-434d-868d-f2fd751783b1)
+         ![Screenshot 2025-04-30 232335](https://github.com/user-attachments/assets/564784f6-a009-4912-89d7-ff4209ecab52)
+         ![Screenshot 2025-04-30 232351](https://github.com/user-attachments/assets/50b40239-3110-4cbe-8bc4-810dea167635)
+
